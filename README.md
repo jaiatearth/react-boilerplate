@@ -1,3 +1,7 @@
+## About react-boilerplate
+
+This is a Vanilla react boilerplate to start with the development.
+
 ## Scripts to Run the Project
 
 In the project directory, you can run:
